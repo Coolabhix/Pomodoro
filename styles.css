@@ -20,7 +20,8 @@ body {
 	position: relative;
 	margin: 100px 0;
 	z-index: 10;
-	border: 1px solid #93932A; 
+	border: 1px solid #93932A;
+	width:90%;
 }
 .img-container {
 	position: relative;
@@ -163,7 +164,7 @@ body {
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 	margin-right: 0px;
-	width: 75%;
+	width: 80%;
 	/*height: 100vh;*/
 	/*background: #84a1ac;
 	font-size: 100px;*/
@@ -197,7 +198,7 @@ p {
 	background:#D6D671;
 	margin: 20px;
 	padding: 5px;
-	width: 50%;
+	width: 56%;
 	border-radius: 15px;
 	box-shadow: 0 15px 15px #1f312c;
 	border: 1px solid #93932A; 
@@ -230,7 +231,7 @@ h4 {
 	}
 	#pomodoro {
 		width: 30%;
-		height: 30%;
+		height: 25%;
 	}
 	.main-title {
 	color:#93932A;
