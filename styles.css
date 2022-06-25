@@ -198,7 +198,6 @@ p {
 	margin: 20px;
 	padding: 5px;
 	width: 50%;
-	height: 60%;
 	border-radius: 15px;
 	box-shadow: 0 15px 15px #1f312c;
 	border: 1px solid #93932A; 
@@ -231,7 +230,7 @@ h4 {
 	}
 	#pomodoro {
 		width: 30%;
-		height: 50%;
+		height: 30%;
 	}
 	.main-title {
 	color:#93932A;
